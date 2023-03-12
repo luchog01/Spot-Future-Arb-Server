@@ -1,2 +1,3 @@
 fastapi
 uvicorn[standar]
+pip install python-binance
