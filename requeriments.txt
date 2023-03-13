@@ -1,3 +1,4 @@
 fastapi
 uvicorn[standar]
 python-binance
+pandas
